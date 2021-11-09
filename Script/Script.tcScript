@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="Create_Order" key="{FB070A86-E32B-4BEB-98DC-F12DF339B8F3}" path="Create_Order.js" />
+		<child name="Check_doc" key="{AD76EDF2-658E-4475-AD1C-5D306A7CD052}" path="Check_doc.js" />
+		<child name="Start_SAP" key="{70B5EEE7-3ABE-43A4-88EE-472039F2BD77}" path="Start_SAP.js" />
+		<child name="Outbound_Del" key="{696FCE0D-A917-4F71-A4AC-8F25A9EF7CC6}" path="Outbound_Del.js" />
+		<child name="main_menu" key="{466C1B93-45C8-48A5-A958-4E6470CBF504}" path="main_menu.js" />
+		<child name="Login" key="{AFD7B1F5-7761-4189-A6D8-20DED669F2AA}" path="Login.js" />
+		<child name="Data" key="{21A43702-8479-4336-A704-A259C3832D9E}" path="Data.js" />
+		<child name="send_mail" key="{4535416A-34CC-40CC-A028-124AB3958117}" path="send_mail.js" />
+		<child name="Check_position" key="{EC8E5FFD-980C-4C84-B5BF-DEA51018AE18}" path="Check_position.js" />
+	</children>
+</Root>

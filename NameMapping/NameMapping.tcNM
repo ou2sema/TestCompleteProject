@@ -1,0 +1,2020 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{13A015DD-77BD-4248-8D99-7B2E9D37ABAE}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="saplogon" Key="{6EA47526-0E7C-4616-BFBC-C9E2AA3B0DC8}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="saplogon" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="dlgSAPLogon760" Key="{57D3C403-7884-4B02-9CAC-76B4185D823E}">
+								<Image FileName="1484447636" Left="0" Top="0" Right="1073" Bottom="773" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="#32770" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="SAP Logon 760" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="AfxOleControl140" Key="{041FE1C1-D2AF-49AE-863A-12BD77D40017}">
+										<Image FileName="1484447636" Left="15" Top="66" Right="1058" Bottom="757" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="AfxOleControl140" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="" />
+											</Property>
+											<Property Name="Index">
+												<Value Value="1" Type="0" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="AfxMDIFrame140" Key="{F5EEBBB0-E966-4BFB-A24E-B83467721753}">
+												<Image FileName="1484447636" Left="15" Top="66" Right="1058" Bottom="757" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="AfxMDIFrame140" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="AfxFrameOrView140" Key="{25C09153-0D41-4CCF-AB5D-2D8A2D167AB8}">
+														<Image FileName="1484447636" Left="312" Top="66" Right="1058" Bottom="757" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="AfxFrameOrView140" />
+															</Property>
+															<Property Name="WndCaption">
+																<Value Value="" />
+															</Property>
+															<Property Name="Index">
+																<Value Value="2" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="myContainer" Key="{96BE2F09-E6D1-4287-AA45-1965F5CE6301}">
+																<Image FileName="1484447636" Left="312" Top="66" Right="1058" Bottom="757" />
+																<Properties>
+																	<Property Name="WndClass">
+																		<Value Value="Afx:*" />
+																	</Property>
+																	<Property Name="WndCaption">
+																		<Value Value="myContainer" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="ListView" Key="{C5D61141-4CDC-4243-8EA6-68ED056730AB}">
+																		<Image FileName="1484447636" Left="312" Top="66" Right="1058" Bottom="757" />
+																		<TypeInfo Item0="{C90FFDCE-7AA4-4FE5-A934-FF98FD291EB5}" />
+																		<Properties>
+																			<Property Name="WndClass">
+																				<Value Value="SysListView32" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="mainwindowSap" Key="{7338B026-308B-4DE2-A8CC-7F7938028ACA}">
+								<Image FileName="752931897" Left="-8" Top="-8" Right="1928" Bottom="1048" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="MainWindow" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="wnd[0]" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="userareaUsr" Key="{F466EF34-2C15-4546-AC38-88E44268752C}">
+										<Image FileName="752931897" Left="4" Top="134" Right="1916" Bottom="1011" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="UserArea" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="usr" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="textfieldUser" Key="{612D68DA-8671-4D97-8AB7-5EEF05279E02}">
+												<Image FileName="752931897" Left="147" Top="186" Right="237" Bottom="206" />
+												<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="TextField" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="txtRSYST-BNAME" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="passwordfieldPassword" Key="{FFAFDD71-8A50-4BAA-9CE2-7AF69B5C8B9C}">
+												<Image FileName="1611565814" Left="147" Top="208" Right="237" Bottom="228" />
+												<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="PasswordField" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="pwdRSYST-BCODE" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="textfieldClient" Key="{187A51C3-0A2D-4656-AC82-A3F4146790A8}">
+												<Image FileName="447534117" Left="147" Top="142" Right="174" Bottom="162" />
+												<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="TextField" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="txtRSYST-MANDT" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="textfieldOrderType" Key="{875F0CF6-8CD2-4A10-B377-DC297A19B48C}">
+												<Image FileName="64301602" Left="161" Top="186" Right="209" Bottom="206" />
+												<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="CTextField" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="ctxtVBAK-AUART" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="textfieldSalesOrganization" Key="{D00EBAE9-07B2-4E76-8F1A-D8B91F805998}">
+												<Image FileName="1589856518" Left="161" Top="252" Right="195" Bottom="272" />
+												<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="CTextField" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="ctxtVBAK-VKORG" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="textfieldDistributionChannel" Key="{ABD910E0-AC0D-44F3-9A53-47B4A6E854EB}">
+												<Image FileName="-1611830681" Left="161" Top="274" Right="181" Bottom="294" />
+												<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="CTextField" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="ctxtVBAK-VTWEG" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="textfieldDivision" Key="{A9F334EA-0F73-44CD-A01C-D02664CE9406}">
+												<Image FileName="236747945" Left="161" Top="296" Right="181" Bottom="316" />
+												<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="CTextField" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="ctxtVBAK-SPART" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="textfieldSalesOffice" Key="{9D5A0B14-2C66-4B02-B831-888C28F6C99B}">
+												<Image FileName="1586625684" Left="161" Top="318" Right="195" Bottom="338" />
+												<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="CTextField" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="ctxtVBAK-VKBUR" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="textfieldSalesGroup" Key="{80A265F8-2F73-4BB0-919F-CBD4351C2469}">
+												<Image FileName="-1105813641" Left="161" Top="340" Right="188" Bottom="360" />
+												<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="CTextField" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="ctxtVBAK-VKGRP" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="simplecontainerSubscreenHeaderSa" Key="{727095C1-4F73-4F2A-A21F-FE70E77C7A58}">
+												<Image FileName="-476839323" Left="7" Top="142" Right="1133" Bottom="229" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="SimpleContainer" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="subSUBSCREEN_HEADER:SAPMV45A:4021" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="simplecontainerPartSubSapmv45a47" Key="{6E635453-698C-40D3-8585-D9B470306A3F}">
+														<Image FileName="-476839323" Left="7" Top="164" Right="594" Bottom="207" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="SimpleContainer" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="subPART-SUB:SAPMV45A:4701" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="textfieldSoldToParty" Key="{E91FEDB5-8999-423B-A3D3-E5C3A711E838}">
+																<Image FileName="-476839323" Left="126" Top="164" Right="216" Bottom="184" />
+																<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="CTextField" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="ctxtKUAGV-KUNNR" />
+																	</Property>
+																</Properties>
+															</Child>
+															<Child Name="textfieldShipToParty" Key="{FB59F417-E2CF-41C6-955B-94C0891FCEC4}">
+																<Image FileName="-1926206261" Left="126" Top="186" Right="202" Bottom="206" />
+																<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="CTextField" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="ctxtKUWEV-KUNNR" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="textfieldCustReference" Key="{CB43B33A-391C-4EEF-8CA4-3075AFC310FF}">
+														<Image FileName="-755885055" Left="126" Top="208" Right="286" Bottom="228" />
+														<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="TextField" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="txtVBKD-BSTKD" />
+															</Property>
+														</Properties>
+													</Child>
+													<Child Name="textfieldCustRefDate" Key="{847C7D04-C057-4FE0-BED2-394280CC9511}">
+														<Image FileName="1797292305" Left="399" Top="208" Right="475" Bottom="228" />
+														<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="CTextField" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="ctxtVBKD-BSTDK" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="tabstripTaxiTabstripOverview" Key="{08E79E59-2EDF-44B1-90EB-06F3B32BDFB8}">
+												<Image FileName="-1166724936" Left="7" Top="252" Right="1133" Bottom="993" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="TabStrip" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="tabsTAXI_TABSTRIP_OVERVIEW" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="tabT01" Key="{ED6937D4-47F6-4C0E-886D-9B320944C4C0}">
+														<Image FileName="-1166724936" Left="9" Top="254" Right="80" Bottom="276" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="Tab" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="tabpT\01" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="scrollcontainerSubscreenBodySapm" Key="{B48F8E23-AD53-4E9C-884E-4F9F2898B8E2}">
+																<Image FileName="-1166724936" Left="14" Top="296" Right="1126" Bottom="977" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="ScrollContainer" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="ssubSUBSCREEN_BODY:SAPMV45A:4400" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="simplecontainerSubscreenTcSapmv4" Key="{BDAAF1EC-82F6-43DB-8D50-75998AFCE379}">
+																		<Image FileName="-763456766" Left="14" Top="560" Right="1126" Bottom="955" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="SimpleContainer" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="subSUBSCREEN_TC:SAPMV45A:4900" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="tablecontrolSapmv45atctrlUErfAuf" Key="{D0C0009D-B464-4F10-9307-C6D2B66C7448}">
+																				<Image FileName="-763456766" Left="12" Top="580" Right="1128" Bottom="938" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="TableControl" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="tblSAPMV45ATCTRL_U_ERF_AUFTRAG" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="textfieldRv45aMabnr" Key="{AD7E3F42-B322-4C2C-AC41-CFAD7E270E38}">
+																						<Image FileName="-763456766" Left="80" Top="625" Right="378" Bottom="645" />
+																						<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="CTextField" />
+																							</Property>
+																							<Property Name="ObjectIdentifier">
+																								<Value Value="ctxtRV45A-MABNR[1,0]" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																					<Child Name="textfieldVbapSgtRcat" Key="{5067FD92-7F3F-4118-9598-697B4C126D84}">
+																						<Image FileName="1748660705" Left="365" Top="625" Right="495" Bottom="645" />
+																						<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="CTextField" />
+																							</Property>
+																							<Property Name="ObjectIdentifier">
+																								<Value Value="ctxtVBAP-SGT_RCAT[2,0]" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																					<Child Name="textfieldRv45aKwmeng" Key="{4FD24F67-BCB7-47F5-B528-3E611126D365}">
+																						<Image FileName="-1652259888" Left="482" Top="625" Right="619" Bottom="645" />
+																						<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="TextField" />
+																							</Property>
+																							<Property Name="ObjectIdentifier">
+																								<Value Value="txtRV45A-KWMENG[3,0]" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																					<Child Name="textfieldVbapVrkme" Key="{51471AC3-C8A4-4C0F-BEDE-FDDE434F1E3F}">
+																						<Image FileName="-680479507" Left="620" Top="625" Right="659" Bottom="645" />
+																						<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="CTextField" />
+																							</Property>
+																							<Property Name="ObjectIdentifier">
+																								<Value Value="ctxtVBAP-VRKME[4,0]" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																					<Child Name="textfieldVbapArktx" Key="{D5BB1961-F54E-445B-B3C9-CFBACB1375CA}">
+																						<Image FileName="-1218315883" Left="672" Top="625" Right="858" Bottom="645" />
+																						<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="TextField" />
+																							</Property>
+																							<Property Name="ObjectIdentifier">
+																								<Value Value="txtVBAP-ARKTX[6,0]" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																					<Child Name="textfieldVbapKdmat" Key="{281F5594-A44F-42D2-B366-4017974DB1BA}">
+																						<Image FileName="1582807069" Left="859" Top="625" Right="1122" Bottom="645" />
+																						<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="CTextField" />
+																							</Property>
+																							<Property Name="ObjectIdentifier">
+																								<Value Value="ctxtVBAP-KDMAT[7,0]" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="tabstripTaxiTabstripItem" Key="{BC39272A-C8B5-4767-BF25-CD29DF55F078}">
+												<Image FileName="-1051544857" Left="7" Top="230" Right="1063" Bottom="993" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="TabStrip" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="tabsTAXI_TABSTRIP_ITEM" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="tabT07" Key="{98381985-8F9E-4E90-9B33-4B91DE0C3153}">
+														<Image FileName="753861984" Left="581" Top="232" Right="686" Bottom="254" />
+														<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="Tab" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="tabpT\07" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="scrollcontainerSubscreenBodySapm" Key="{FA4BF150-86BD-48EA-B185-4695E2450FEF}">
+																<Image FileName="-619697343" Left="14" Top="274" Right="1056" Bottom="977" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="ScrollContainer" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="ssubSUBSCREEN_BODY:SAPMV45A:4500" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="tablecontrolSapmv45atctrlPein" Key="{1C8A263C-9F43-4E56-854E-7D4AEFBBA024}">
+																		<Image FileName="-619697343" Left="12" Top="360" Right="1058" Bottom="907" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="TableControl" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="tblSAPMV45ATCTRL_PEIN" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="textfieldVbepWmeng" Key="{0886DF95-D023-400D-B5FA-2624329276DD}">
+																				<Image FileName="-619697343" Left="120" Top="405" Right="243" Bottom="425" />
+																				<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="TextField" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="txtVBEP-WMENG[2,0]" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																			<Child Name="textfieldRv45aEtdat" Key="{414B84C5-117A-435A-89C1-AEB423934372}">
+																				<Image FileName="-1524088294" Left="45" Top="405" Right="119" Bottom="425" />
+																				<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="CTextField" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="ctxtRV45A-ETDAT[1,0]" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="tabT03" Key="{A385AF07-A252-4B61-B98F-76552C3CC778}">
+														<Image FileName="188852725" Left="160" Top="232" Right="234" Bottom="254" />
+														<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="Tab" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="tabpT\03" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="scrollcontainerSubscreenBodySapm" Key="{D13D6C1B-4E71-42AA-8338-A19F43EEEE95}">
+																<Image FileName="1361215329" Left="14" Top="274" Right="1056" Bottom="977" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="ScrollContainer" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="ssubSUBSCREEN_BODY:SAPMV45A:4452" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="textfieldRoute" Key="{66434D3D-B8B3-4824-BA12-4145DA9717B6}">
+																		<Image FileName="1361215329" Left="147" Top="428" Right="195" Bottom="448" />
+																		<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="CTextField" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="ctxtVBAP-ROUTE" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="tabT05" Key="{7A8FABD3-B499-4B72-BC59-CF966A11416D}">
+														<Image FileName="1772873611" Left="354" Top="232" Right="438" Bottom="254" />
+														<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="Tab" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="tabpT\05" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="scrollcontainerSubscreenBodySapl" Key="{CBF05D17-9046-4193-BE71-8DE9F87C7F9C}">
+																<Image FileName="-1566933258" Left="14" Top="274" Right="1056" Bottom="977" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="ScrollContainer" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="ssubSUBSCREEN_BODY:SAPLV69A:6201" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="tablecontrolSaplv69atctrlKonditi" Key="{11A44E24-9872-41F4-94C6-1C3BCF5F2BA9}">
+																		<Image FileName="-1566933258" Left="19" Top="360" Right="1058" Bottom="949" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="TableControl" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="tblSAPLV69ATCTRL_KONDITIONEN" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="textfieldKomvKschl" Key="{8055688B-EB3F-40C7-A527-48E8883CC31B}">
+																				<Image FileName="589661454" Left="59" Top="573" Right="105" Bottom="593" />
+																				<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="CTextField" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="ctxtKOMV-KSCHL[1,8]" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																			<Child Name="textfieldKomvKbetr" Key="{8F692919-C095-4A0C-9C22-AE1738432EAE}">
+																				<Image FileName="955404260" Left="237" Top="573" Right="353" Bottom="593" />
+																				<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="TextField" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="txtKOMV-KBETR[3,8]" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																			<Child Name="textfieldRv61aKoein" Key="{2FDD36FD-72FD-4766-B6FF-D11485D02BFE}">
+																				<Image FileName="2123049247" Left="354" Top="573" Right="407" Bottom="593" />
+																				<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="CTextField" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="ctxtRV61A-KOEIN[4,8]" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																			<Child Name="textfieldKomvKpein" Key="{BB5F2CB0-C2BA-47C3-922C-90E3C9AE2B5B}">
+																				<Image FileName="-1150893542" Left="394" Top="573" Right="433" Bottom="593" />
+																				<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="TextField" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="txtKOMV-KPEIN[5,8]" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																			<Child Name="textfieldKomvKschl2" Key="{99C8AD2A-1601-44E0-9CB2-5046F03C6491}">
+																				<Image FileName="266065263" Left="59" Top="615" Right="105" Bottom="635" />
+																				<TypeInfo Item0="{DB38FA08-1CD1-4F6B-8E9D-556CDDC3303F}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="CTextField" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="ctxtKOMV-KSCHL[1,10]" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																			<Child Name="textfieldKomvKbetr2" Key="{69791F61-1256-407D-966E-DB5B1CC831B5}">
+																				<Image FileName="-67984720" Left="237" Top="615" Right="353" Bottom="635" />
+																				<TypeInfo Item0="{E2174AE5-8ECA-4D71-89AC-DA47EEDE6DC2}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="TextField" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="txtKOMV-KBETR[3,10]" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																			<Child Name="textfieldRv61aKoein2" Key="{75739D83-2E1C-4C55-95CA-8DC9A44D4DFD}">
+																				<Image FileName="-27589842" Left="354" Top="615" Right="407" Bottom="635" />
+																				<TypeInfo Item0="{DB38FA08-1CD1-4F6B-8E9D-556CDDC3303F}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="CTextField" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="ctxtRV61A-KOEIN[4,10]" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																			<Child Name="textfieldKomvKpein2" Key="{1B46F17D-916B-4EDC-A7B0-2514763FBBF1}">
+																				<Image FileName="1893643547" Left="394" Top="615" Right="433" Bottom="635" />
+																				<TypeInfo Item0="{E2174AE5-8ECA-4D71-89AC-DA47EEDE6DC2}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="TextField" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="txtKOMV-KPEIN[5,10]" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																			<Child Name="textfieldKomvKschl3" Key="{DC309E36-8C5C-444B-AB36-AFA9BFA389FF}">
+																				<Image FileName="-422835805" Left="59" Top="636" Right="105" Bottom="656" />
+																				<TypeInfo Item0="{DB38FA08-1CD1-4F6B-8E9D-556CDDC3303F}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="CTextField" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="ctxtKOMV-KSCHL[1,11]" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																			<Child Name="textfieldKomvKbetr3" Key="{81532409-B1E1-4015-BA3B-4B2360D03F3A}">
+																				<Image FileName="1498138178" Left="237" Top="636" Right="353" Bottom="656" />
+																				<TypeInfo Item0="{E2174AE5-8ECA-4D71-89AC-DA47EEDE6DC2}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="TextField" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="txtKOMV-KBETR[3,11]" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																			<Child Name="textfieldKomvKpein3" Key="{065B5D55-0A0A-460D-8C2F-CA90C7BEFD29}">
+																				<Image FileName="1028800981" Left="394" Top="636" Right="433" Bottom="656" />
+																				<TypeInfo Item0="{E2174AE5-8ECA-4D71-89AC-DA47EEDE6DC2}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="TextField" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="txtKOMV-KPEIN[5,11]" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="tabT12" Key="{49A05F9F-82BA-40A5-BE25-355C1A98AA0D}">
+														<Image FileName="-734529829" Left="969" Top="232" Right="1049" Bottom="254" />
+														<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="Tab" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="tabpT\12" />
+															</Property>
+														</Properties>
+													</Child>
+													<Child Name="tabT13" Key="{D296B666-9323-4F47-B478-2CE4C43A3CEE}">
+														<Image FileName="-878872959" Left="853" Top="232" Right="975" Bottom="254" />
+														<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="Tab" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="tabpT\13" />
+															</Property>
+														</Properties>
+													</Child>
+													<Child Name="tabT14" Key="{71AF8394-D87C-4438-AE26-B8ED59E4A57A}">
+														<Image FileName="-765706282" Left="976" Top="232" Right="1097" Bottom="254" />
+														<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="Tab" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="tabpT\14" />
+															</Property>
+														</Properties>
+													</Child>
+													<Child Name="tabT15" Key="{BF850D48-2BD2-4D66-A596-38F75B2D8A5E}">
+														<Image FileName="-1570114415" Left="752" Top="232" Right="892" Bottom="254" />
+														<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="Tab" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="tabpT\15" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="scrollcontainerSubscreenBodySapm" Key="{14B1FF66-1DE1-43B9-8140-3BE51B9259CE}">
+																<Image FileName="183082103" Left="14" Top="274" Right="1056" Bottom="977" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="ScrollContainer" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="ssubSUBSCREEN_BODY:SAPMV45A:4324" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="simplecontainerCustomerScreenSap" Key="{A71AB2FB-8519-446B-9E04-5E62E8CD7F1C}">
+																		<Image FileName="183082103" Left="14" Top="274" Right="1028" Bottom="647" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="SimpleContainer" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="subCUSTOMER_SCREEN:SAPLZSD_VA_CUST_FIELDS_MDM:5000" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="comboboxCarlineDrXlmaier" Key="{AD1555BF-08BD-4CF2-837B-35D3E7148626}">
+																				<Image FileName="183082103" Left="189" Top="296" Right="377" Bottom="316" />
+																				<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="ComboBox" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="cmbVBAP-ZZ_CARLINE" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																			<Child Name="comboboxProductType" Key="{74F26563-DA32-45A2-9B2A-C3C88846450D}">
+																				<Image FileName="-1695231814" Left="189" Top="318" Right="363" Bottom="338" />
+																				<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="ComboBox" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="cmbVBAP-ZZ_COMPONENT" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																			<Child Name="labelCarlineModel" Key="{C707C2AC-68E9-4ED3-8385-8E31A20F5E76}">
+																				<Image FileName="447296553" Left="21" Top="406" Right="167" Bottom="426" />
+																				<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="Label" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="lblVBAP-ZZ_MODEL_ID" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="customcontrolImageContainer" Key="{CFF499B9-AF66-429A-A04B-1D44B30D7F08}">
+												<Image FileName="1503791355" Left="7" Top="142" Right="1798" Bottom="999" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="CustomControl" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="cntlIMAGE_CONTAINER" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="containershellShellcont" Key="{ED30F4C2-B763-428A-A726-D032076FC27F}">
+														<Image FileName="1503791355" Left="7" Top="142" Right="1798" Bottom="999" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="ContainerShell" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="shellcont" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="splittershellShell" Key="{474D4687-EA4C-47E8-B7FA-34ECF06454B3}">
+																<Image FileName="1503791355" Left="7" Top="142" Right="1798" Bottom="999" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="SplitterShell" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="shell" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="containershellShellcont0" Key="{1329D85D-674D-400D-B368-F512E935385F}">
+																		<Image FileName="1503791355" Left="7" Top="142" Right="721" Bottom="999" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="ContainerShell" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="shellcont[0]" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="shelltreeShell" Key="{4E0110B6-C601-4F2C-9DAF-1B1BE5F4BB62}">
+																				<Image FileName="1503791355" Left="7" Top="142" Right="721" Bottom="999" />
+																				<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="ShellTree" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="shell" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="textfieldCalcruledefltdlvcrdt" Key="{C9C105ED-1FC2-4946-B9BD-F0A93CD26C7C}">
+												<Image FileName="1901330213" Left="245" Top="186" Right="258" Bottom="206" />
+												<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="CTextField" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="ctxtP_LERUL" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="checkbox" Key="{2BFE556C-F541-429B-9477-6086EAB83966}">
+												<Image FileName="1138390361" Left="12" Top="221" Right="26" Bottom="236" />
+												<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="CheckBox" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="chk[1,5]" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="toolbarTbar0" Key="{2BA9A600-81C8-4351-82B8-9AAAA65C8BA5}">
+										<Image FileName="276134794" Left="4" Top="38" Right="1916" Bottom="69" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Toolbar" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="tbar[0]" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="okcodefieldOkcd" Key="{472C348B-F8AA-4A1B-96A5-477B9BFCDF2F}">
+												<Image FileName="276134794" Left="48" Top="40" Right="190" Bottom="64" />
+												<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="OkCodeField" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="okcd" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="buttonBtn0" Key="{88626B4B-C5A0-4701-918B-5978492A4A7A}">
+												<Image FileName="245561569" Left="12" Top="40" Right="38" Bottom="66" />
+												<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Button" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="btn[0]" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="buttonBtn11" Key="{AB7AD7D4-A24F-4A5C-9F13-5D7BF1439A3D}">
+												<Image FileName="-1230512084" Left="220" Top="40" Right="246" Bottom="66" />
+												<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Button" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="btn[11]" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="buttonBtn3" Key="{A4D79589-998C-4C50-A570-F5F5D1ED517D}">
+												<Image FileName="966785551" Left="258" Top="40" Right="284" Bottom="66" />
+												<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Button" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="btn[3]" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="titlebarSapEasyAccessUserMenuFor" Key="{BF2CE1E3-7DBA-4BFD-B197-CBBA2EA80514}">
+										<Image FileName="2001349117" Left="4" Top="69" Right="1916" Bottom="100" />
+										<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Titlebar" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="titl" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="toolbarTbar1" Key="{F099C048-661F-47DB-9CC4-F13B34851DA0}">
+										<Image FileName="1652237939" Left="4" Top="100" Right="1916" Bottom="134" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Toolbar" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="tbar[1]" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="buttonBackground" Key="{B04C7201-7DD4-4CA6-88B8-35963753D3E9}">
+												<Image FileName="1652237939" Left="131" Top="103" Right="249" Bottom="131" />
+												<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Button" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="btn[19]" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="buttonBtn20" Key="{B12247A6-507D-477F-ACBC-55FA4267F4F9}">
+												<Image FileName="107241534" Left="285" Top="103" Right="313" Bottom="131" />
+												<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Button" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="btn[20]" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="Afx" Key="{3E48218B-D23A-4EEC-87C5-C3ACDE071CF4}">
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Afx:*" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="modalwindowSalesDocumentType143E" Key="{472C3DA0-FAFC-433C-99DD-1D81BCE5ED15}">
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="ModalWindow" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="wnd[1]" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="userareaUsr" Key="{60BB0112-7FCA-4DC6-BE39-FA0EE5C112B8}">
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="UserArea" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="usr" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="labelEd" Key="{6BD437EB-2DAC-45F6-87CC-A61F11F4026D}">
+												<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Label" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="lbl[1,19]" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="labelCreditMemoRequest" Key="{EE0374F9-78A0-4DC8-832A-F17B9C5A66AB}">
+												<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Label" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="lbl[6,18]" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="labelToolManufExt" Key="{CC7CAFDC-C033-42BD-BE2D-9E3F87127DA5}">
+												<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Label" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="lbl[6,28]" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="tabstripGSelonetabstrip" Key="{D15C74B3-7332-4F15-8E8D-D66CD045B138}">
+												<Image FileName="1210318324" Left="4" Top="33" Right="472" Bottom="224" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="TabStrip" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="tabsG_SELONETABSTRIP" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="tabTab001" Key="{A63BCBC3-9543-4D0D-AEAE-27DC0CE69764}">
+														<Image FileName="1210318324" Left="6" Top="35" Right="112" Bottom="57" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="Tab" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="tabpTAB001" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="scrollcontainerSubscrPreselSapls" Key="{52824665-708C-47ED-8CF4-5786B1145DAD}">
+																<Image FileName="1210318324" Left="11" Top="77" Right="465" Bottom="208" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="ScrollContainer" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="ssubSUBSCR_PRESEL:SAPLSDH4:0220" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="simplecontainerSaplsdh40220" Key="{AB2802C4-8946-4BE2-B674-800E71A512D9}">
+																		<Image FileName="1210318324" Left="11" Top="77" Right="430" Bottom="186" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="SimpleContainer" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="sub:SAPLSDH4*" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="textfieldDescription" Key="{2B98C90B-B943-4E28-83A9-B3BB17386ED2}">
+																				<Image FileName="1210318324" Left="179" Top="121" Right="325" Bottom="141" />
+																				<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="TextField" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="txtG_SELFLD_TAB-LOW[2,24]" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																			<Child Name="textfieldSalesOffice" Key="{9BB718BB-65BA-4AD6-8B9F-DE964B0A81EF}">
+																				<Image FileName="-295288753" Left="179" Top="77" Right="227" Bottom="97" />
+																				<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="CTextField" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="ctxtG_SELFLD_TAB-LOW[0,24]" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																			<Child Name="textfieldSalesGroup" Key="{D6F5A80E-C681-48DE-BF16-4F52F1E3F8EE}">
+																				<Image FileName="1449691883" Left="179" Top="99" Right="206" Bottom="119" />
+																				<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="TextField" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="txtG_SELFLD_TAB-LOW[1,24]" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																			<Child Name="textfieldHideInInputHelp" Key="{9FAEEE28-CD65-4327-B54A-17C5AA47E941}">
+																				<Image FileName="-1931216570" Left="179" Top="143" Right="192" Bottom="163" />
+																				<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="CTextField" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="ctxtG_SELFLD_TAB-LOW[3,24]" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																			<Child Name="buttonSalesGroup" Key="{9B2C8958-C2CA-4C7F-BB73-BABE843D866C}">
+																				<Image FileName="2049670587" Left="403" Top="98" Right="430" Bottom="120" />
+																				<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="Button" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="btnG_SELFLD_TAB-MORE[1,56]" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="customcontrolContainer" Key="{9BAC6920-AC0E-40F9-AC9C-52F4E9DD8315}">
+												<Image FileName="1987504897" Left="4" Top="33" Right="290" Bottom="296" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="CustomControl" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="cntlCONTAINER" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="containershellShellcont" Key="{2088A612-E5E0-4BB0-B240-647048E1A6BA}">
+														<Image FileName="1987504897" Left="4" Top="33" Right="290" Bottom="296" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="ContainerShell" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="shellcont" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="shellcalendarShell" Key="{79ACDBFE-2E62-48B2-A7FA-C6AD18D73B51}">
+																<Image FileName="1987504897" Left="4" Top="33" Right="290" Bottom="296" />
+																<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="ShellCalendar" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="shell" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="buttonNo" Key="{D6980F25-D2A2-415C-A216-312B95468CFD}">
+												<Image FileName="-1941772503" Left="130" Top="98" Right="213" Bottom="120" />
+												<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Button" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="btnSPOP-OPTION2" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="buttonYes" Key="{033AE1F3-61EA-47EF-9562-EE3B70203C6A}">
+												<Image FileName="484827247" Left="46" Top="98" Right="129" Bottom="120" />
+												<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Button" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="btnSPOP-OPTION1" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="Afx" Key="{F8F5063D-B18C-4006-89B5-6D6EC4E355A6}">
+										<Image FileName="-2059588744" Left="1" Top="25" Right="268" Bottom="611" />
+										<TypeInfo Item0="{18365C0F-BC40-45D0-B830-D4805025A671}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Afx:*" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="toolbarTbar0" Key="{4BABF73A-F3B2-4C3A-B084-A929DF48EFE4}">
+										<Image FileName="1112851114" Left="1" Top="237" Right="475" Bottom="273" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Toolbar" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="tbar[0]" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="buttonBtn0" Key="{0B87E952-33BD-4C8D-B6AB-F68B45ADB633}">
+												<Image FileName="1112851114" Left="380" Top="246" Right="408" Bottom="266" />
+												<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Button" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="btn[0]" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="buttonBtn12" Key="{EEB6D6AD-89A1-4DF8-9C89-9F4404423CB6}">
+												<Image FileName="-838060766" Left="440" Top="246" Right="468" Bottom="266" />
+												<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Button" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="btn[12]" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="Afx" Key="{C80AE788-7B34-40C7-BFB3-BC60CEFDF023}">
+								<Image FileName="-2112035108" Left="0" Top="0" Right="29" Bottom="22" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Afx:*" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="listbox shell" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="ListBox" Key="{F119CC83-657B-40DF-93DD-0851ADC0DC76}">
+										<Image FileName="-2112035108" Left="0" Top="0" Right="29" Bottom="22" />
+										<TypeInfo Item0="{6900B2C2-89F4-4CDF-8309-9F3AF285D985}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="ListBox" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="modalwindowMultipleSelectForSale" Key="{8AE7032A-FCE7-4F8A-8424-A4FCE49C49B2}">
+								<Image FileName="237482974" Left="0" Top="0" Right="217" Bottom="538" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="ModalWindow" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="wnd[2]" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="toolbarTbar0" Key="{7EE784CE-D177-4735-BE7D-605C1D6629AA}">
+										<Image FileName="-934804142" Left="1" Top="347" Right="657" Bottom="383" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Toolbar" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="tbar[0]" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="buttonBtn12" Key="{2F64E845-0CEB-495E-B0E5-A9E81C3CDEE1}">
+												<Image FileName="-934804142" Left="622" Top="356" Right="650" Bottom="376" />
+												<TypeInfo Item0="{205EB7EC-E9F9-4817-B562-00F261643A90}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Button" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="btn[12]" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="dlgSAPGUIForWindows760" Key="{D2C54510-5113-4BB5-8BB0-7D6C4436C6C0}">
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="#32770" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="SAP GUI for Windows 760" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="btnYes" Key="{0FF29C05-62C3-4706-ACBF-C7E7C038D7C9}">
+										<TypeInfo Item0="{845F0FA7-7F3E-48EA-9DDF-147A44E3DE23}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Button" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="&amp;Yes" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="wndDialogBoxContainerClass" Key="{7EA2D8C7-81E6-4B16-8424-76CCC8DE8203}">
+								<Image FileName="-1310926857" Left="0" Top="0" Right="438" Bottom="473" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="DialogBox Container Class" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Performance Assistant" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="ShellWindowClass" Key="{BA31FDB9-4232-4C6E-B6FE-19857A1884E7}">
+										<Image FileName="-1310926857" Left="4" Top="25" Right="434" Bottom="469" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Shell Window Class" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="Control&#32;&#32;Container" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="AfxOleControl140" Key="{5D211008-75C5-475F-B797-85DD08766F20}">
+												<Image FileName="-1310926857" Left="4" Top="25" Right="434" Bottom="469" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="AfxOleControl140" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="AfxMDIFrame140" Key="{F5C6385E-2DFD-4D63-8D9C-BC59850B1ABC}">
+														<Image FileName="-1310926857" Left="4" Top="25" Right="434" Bottom="469" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="AfxMDIFrame140" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="AfxFrameOrView140" Key="{0393A66B-F46A-48FF-BB1C-0E615868BCE9}">
+																<Image FileName="-1310926857" Left="4" Top="50" Right="434" Bottom="469" />
+																<Properties>
+																	<Property Name="WndClass">
+																		<Value Value="AfxFrameOrView140" />
+																	</Property>
+																	<Property Name="WndCaption">
+																		<Value Value="" />
+																	</Property>
+																	<Property Name="Index">
+																		<Value Value="2" Type="0" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="CustomContainerClass" Key="{A63D4530-B66C-476F-ADC0-F429BC938FDF}">
+																		<Image FileName="-1310926857" Left="4" Top="50" Right="434" Bottom="469" />
+																		<Properties>
+																			<Property Name="WndClass">
+																				<Value Value="Custom Container Class" />
+																			</Property>
+																			<Property Name="WndCaption">
+																				<Value Value="Custom&#32;&#32;Container" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="ShellWindowClass" Key="{1770164E-B82F-4FD4-83EA-CB6B8974414F}">
+																				<Image FileName="-1310926857" Left="4" Top="50" Right="434" Bottom="469" />
+																				<Properties>
+																					<Property Name="WndClass">
+																						<Value Value="Shell Window Class" />
+																					</Property>
+																					<Property Name="WndCaption">
+																						<Value Value="Control&#32;&#32;Container" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="Item" Key="{9FC7131A-781C-40DB-9AF9-03D5E8571355}">
+																						<Image FileName="-1310926857" Left="4" Top="50" Right="434" Bottom="469" />
+																						<Properties>
+																							<Property Name="WndClass">
+																								<Value Value="ATL:03038088" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="ShellEmbedding" Key="{641A1DAA-FE7F-455E-9421-859A7C5673B2}">
+																								<Image FileName="-1310926857" Left="4" Top="50" Right="434" Bottom="469" />
+																								<Properties>
+																									<Property Name="WndClass">
+																										<Value Value="Shell Embedding" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="ShellDocObjectView" Key="{6A43D732-BE65-49BF-8D65-B599F18E2A81}">
+																										<Image FileName="-1310926857" Left="4" Top="50" Right="434" Bottom="469" />
+																										<Properties>
+																											<Property Name="WndClass">
+																												<Value Value="Shell DocObject View" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="browser" Key="{DF0C4569-7A79-4426-8D51-9794F8DAEDB3}">
+																												<Image FileName="-1310926857" Left="4" Top="50" Right="434" Bottom="469" />
+																												<Properties>
+																													<Property Name="WndClass">
+																														<Value Value="Internet Explorer_Server" />
+																													</Property>
+																												</Properties>
+																												<Children>
+																													<Child Name="pageConversionOfSapscriptTextHel" Key="{586294D3-9FD2-46BC-A836-554231F09A8D}">
+																														<Image FileName="-1310926857" Left="4" Top="50" Right="434" Bottom="469" />
+																														<Properties>
+																															<Property Name="ObjectType">
+																																<Value Value="Page" />
+																															</Property>
+																															<Property Name="URL">
+																																<Value Value="saphtmlp://htmlviewer.sap.com/051MddSV7kkknI4eMY42MW/HTML000001.htm" />
+																															</Property>
+																														</Properties>
+																														<Children>
+																															<Child Name="textnode" Key="{439554D5-652E-4A9A-ACA0-E25DE67F195F}" ExtendedFind="True">
+																																<Image FileName="230690832" Left="12" Top="58" Right="426" Bottom="75" />
+																																<TypeInfo Item0="{A0422C49-F47B-4696-8F9C-C239E920C0A2}" />
+																																<Properties>
+																																	<Property Name="ObjectType">
+																																		<Value Value="TextNode" />
+																																	</Property>
+																																	<Property Name="contentText">
+																																		<Value Value="Standard Order 600002762 has been saved." />
+																																	</Property>
+																																</Properties>
+																															</Child>
+																														</Children>
+																													</Child>
+																												</Children>
+																											</Child>
+																										</Children>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																					<Child Name="E0C8088" Key="{1DCCB042-8DEE-4192-9569-3A22D4D7847C}">
+																						<Image FileName="-283069388" Left="4" Top="50" Right="434" Bottom="470" />
+																						<Properties>
+																							<Property Name="WndClass">
+																								<Value Value="ATL:0E0C8088" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="ShellEmbedding" Key="{12689BBF-9C94-4BDE-8657-2D68A78AD188}">
+																								<Image FileName="-283069388" Left="4" Top="50" Right="434" Bottom="470" />
+																								<Properties>
+																									<Property Name="WndClass">
+																										<Value Value="Shell Embedding" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="ShellDocObjectView" Key="{A28B0FC6-FC93-4323-B60A-E1E663256943}">
+																										<Image FileName="-283069388" Left="4" Top="50" Right="434" Bottom="470" />
+																										<Properties>
+																											<Property Name="WndClass">
+																												<Value Value="Shell DocObject View" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="browser" Key="{F007E468-1A79-45F8-A8AF-30C54577BB24}">
+																												<Image FileName="-283069388" Left="4" Top="50" Right="434" Bottom="470" />
+																												<Properties>
+																													<Property Name="WndClass">
+																														<Value Value="Internet Explorer_Server" />
+																													</Property>
+																												</Properties>
+																												<Children>
+																													<Child Name="pageConversionOfSapscriptTextHel" Key="{59257ED2-0BAE-4D6E-A85A-CD97A7140881}">
+																														<Image FileName="-283069388" Left="4" Top="50" Right="434" Bottom="470" />
+																														<Properties>
+																															<Property Name="ObjectType">
+																																<Value Value="Page" />
+																															</Property>
+																															<Property Name="URL">
+																																<Value Value="saphtmlp://htmlviewer.sap.com/051MddSV7kkknSn8Jlw4l0/HTML000001.htm" />
+																															</Property>
+																														</Properties>
+																														<Children>
+																															<Child Name="textnode" Key="{EFD9EC23-5E99-416D-AB7F-0F736F504D59}" ExtendedFind="True">
+																																<Image FileName="-283069388" Left="12" Top="58" Right="426" Bottom="75" />
+																																<TypeInfo Item0="{A0422C49-F47B-4696-8F9C-C239E920C0A2}" />
+																																<Properties>
+																																	<Property Name="ObjectType">
+																																		<Value Value="TextNode" />
+																																	</Property>
+																																	<Property Name="contentText">
+																																		<Value Value="Standard Order 600002765 has been saved." />
+																																	</Property>
+																																</Properties>
+																															</Child>
+																														</Children>
+																													</Child>
+																												</Children>
+																											</Child>
+																										</Children>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																					<Child Name="E8C8088" Key="{A950D1E2-FA6D-46C1-BC0B-8CDB6DAED089}">
+																						<Image FileName="-1648393078" Left="4" Top="50" Right="434" Bottom="470" />
+																						<Properties>
+																							<Property Name="WndClass">
+																								<Value Value="ATL:0E8C8088" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="ShellEmbedding" Key="{2B0767DD-3D78-45A3-AA43-658D33D039BD}">
+																								<Image FileName="-1648393078" Left="4" Top="50" Right="434" Bottom="470" />
+																								<Properties>
+																									<Property Name="WndClass">
+																										<Value Value="Shell Embedding" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="ShellDocObjectView" Key="{FB1E11F0-0CB9-4FA2-A6CC-CE3D7455ACEF}">
+																										<Image FileName="-1648393078" Left="4" Top="50" Right="434" Bottom="470" />
+																										<Properties>
+																											<Property Name="WndClass">
+																												<Value Value="Shell DocObject View" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="browser" Key="{5B1E6F67-C190-4CB1-98D5-591AFA1FD5DD}">
+																												<Image FileName="-1648393078" Left="4" Top="50" Right="434" Bottom="470" />
+																												<Properties>
+																													<Property Name="WndClass">
+																														<Value Value="Internet Explorer_Server" />
+																													</Property>
+																												</Properties>
+																												<Children>
+																													<Child Name="pageConversionOfSapscriptTextHel" Key="{DBD55F66-D63E-4A72-B2D7-54C562E14E3F}">
+																														<Image FileName="-1648393078" Left="4" Top="50" Right="434" Bottom="470" />
+																														<Properties>
+																															<Property Name="ObjectType">
+																																<Value Value="Page" />
+																															</Property>
+																															<Property Name="URL">
+																																<Value Value="saphtmlp://htmlviewer.sap.com/051MddSV7kkknjJiCAk8C0/HTML000001.htm" />
+																															</Property>
+																														</Properties>
+																														<Children>
+																															<Child Name="textnode" Key="{AEDE685F-AB52-4BD2-AB9F-7E2D45D53F8A}" ExtendedFind="True">
+																																<Image FileName="-1648393078" Left="12" Top="58" Right="426" Bottom="75" />
+																																<TypeInfo Item0="{A0422C49-F47B-4696-8F9C-C239E920C0A2}" />
+																																<Properties>
+																																	<Property Name="ObjectType">
+																																		<Value Value="TextNode" />
+																																	</Property>
+																																	<Property Name="contentText">
+																																		<Value Value="Standard Order 600002776 has been saved." />
+																																	</Property>
+																																</Properties>
+																															</Child>
+																														</Children>
+																													</Child>
+																												</Children>
+																											</Child>
+																										</Children>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="wndSAP" Key="{8ED034D8-3171-4E32-9B89-B97A29FB502F}">
+								<Image FileName="1784317787" Left="-8" Top="-8" Right="1928" Bottom="1048" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="SAP_FRONTEND_SESSION" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="SAP" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="Afx" Key="{836FF3CB-47AC-4924-9972-38E8866915A4}">
+										<Image FileName="1784317787" Left="4" Top="134" Right="1916" Bottom="1011" />
+										<TypeInfo Item0="{18365C0F-BC40-45D0-B830-D4805025A671}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Afx:*" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="dlgSAPLogon770" Key="{E1C901A5-BA87-4E60-AF02-9BA136C15AE2}">
+								<Image FileName="1738173419" Left="0" Top="0" Right="1073" Bottom="773" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="#32770" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="SAP Logon 770" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="AfxOleControl140" Key="{32ACFEF3-5008-41EE-B879-0B3D29D4C0A0}">
+										<Image FileName="1738173419" Left="15" Top="66" Right="1058" Bottom="757" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="AfxOleControl140" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="" />
+											</Property>
+											<Property Name="Index">
+												<Value Value="1" Type="0" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="AfxMDIFrame140" Key="{379FE4FF-7438-4B8D-91B1-8C83B057B805}">
+												<Image FileName="1738173419" Left="15" Top="66" Right="1058" Bottom="757" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="AfxMDIFrame140" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="AfxFrameOrView140" Key="{A9627CF4-D363-4C3F-89A8-6B6E02A57A1C}">
+														<Image FileName="1738173419" Left="312" Top="66" Right="1058" Bottom="757" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="AfxFrameOrView140" />
+															</Property>
+															<Property Name="WndCaption">
+																<Value Value="" />
+															</Property>
+															<Property Name="Index">
+																<Value Value="2" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="myContainer" Key="{29B08F39-C668-46C3-9282-C0E60DD24120}">
+																<Image FileName="1738173419" Left="312" Top="66" Right="1058" Bottom="757" />
+																<Properties>
+																	<Property Name="WndClass">
+																		<Value Value="Afx:*" />
+																	</Property>
+																	<Property Name="WndCaption">
+																		<Value Value="myContainer" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="ListView" Key="{8655273B-E402-4062-A857-D3472DABDEEB}">
+																		<Image FileName="1738173419" Left="312" Top="66" Right="1058" Bottom="757" />
+																		<TypeInfo Item0="{C90FFDCE-7AA4-4FE5-A934-FF98FD291EB5}" />
+																		<Properties>
+																			<Property Name="WndClass">
+																				<Value Value="SysListView32" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="saplogon" Owner="{6EA47526-0E7C-4616-BFBC-C9E2AA3B0DC8}">
+			<Child Name="dlgSAPLogon760" Owner="{57D3C403-7884-4B02-9CAC-76B4185D823E}">
+				<Child Name="AfxOleControl140" Owner="{041FE1C1-D2AF-49AE-863A-12BD77D40017}">
+					<Child Name="AfxMDIFrame140" Owner="{F5EEBBB0-E966-4BFB-A24E-B83467721753}">
+						<Child Name="AfxFrameOrView140" Owner="{25C09153-0D41-4CCF-AB5D-2D8A2D167AB8}">
+							<Child Name="myContainer" Owner="{96BE2F09-E6D1-4287-AA45-1965F5CE6301}">
+								<Child Name="ListView" Owner="{C5D61141-4CDC-4243-8EA6-68ED056730AB}" />
+							</Child>
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="mainwindowSap" Owner="{7338B026-308B-4DE2-A8CC-7F7938028ACA}">
+				<Child Name="userareaUsr" Owner="{F466EF34-2C15-4546-AC38-88E44268752C}">
+					<Child Name="textfieldUser" Owner="{612D68DA-8671-4D97-8AB7-5EEF05279E02}" />
+					<Child Name="passwordfieldPassword" Owner="{FFAFDD71-8A50-4BAA-9CE2-7AF69B5C8B9C}" />
+					<Child Name="textfieldClient" Owner="{187A51C3-0A2D-4656-AC82-A3F4146790A8}" />
+					<Child Name="textfieldOrderType" Owner="{875F0CF6-8CD2-4A10-B377-DC297A19B48C}" />
+					<Child Name="textfieldSalesOrganization" Owner="{D00EBAE9-07B2-4E76-8F1A-D8B91F805998}" />
+					<Child Name="textfieldDistributionChannel" Owner="{ABD910E0-AC0D-44F3-9A53-47B4A6E854EB}" />
+					<Child Name="textfieldDivision" Owner="{A9F334EA-0F73-44CD-A01C-D02664CE9406}" />
+					<Child Name="textfieldSalesOffice" Owner="{9D5A0B14-2C66-4B02-B831-888C28F6C99B}" />
+					<Child Name="textfieldSalesGroup" Owner="{80A265F8-2F73-4BB0-919F-CBD4351C2469}" />
+					<Child Name="simplecontainerSubscreenHeaderSa" Owner="{727095C1-4F73-4F2A-A21F-FE70E77C7A58}">
+						<Child Name="simplecontainerPartSubSapmv45a47" Owner="{6E635453-698C-40D3-8585-D9B470306A3F}">
+							<Child Name="textfieldSoldToParty" Owner="{E91FEDB5-8999-423B-A3D3-E5C3A711E838}" />
+							<Child Name="textfieldShipToParty" Owner="{FB59F417-E2CF-41C6-955B-94C0891FCEC4}" />
+						</Child>
+						<Child Name="textfieldCustReference" Owner="{CB43B33A-391C-4EEF-8CA4-3075AFC310FF}" />
+						<Child Name="textfieldCustRefDate" Owner="{847C7D04-C057-4FE0-BED2-394280CC9511}" />
+					</Child>
+					<Child Name="tabstripTaxiTabstripOverview" Owner="{08E79E59-2EDF-44B1-90EB-06F3B32BDFB8}">
+						<Child Name="tabT01" Owner="{ED6937D4-47F6-4C0E-886D-9B320944C4C0}">
+							<Child Name="scrollcontainerSubscreenBodySapm" Owner="{B48F8E23-AD53-4E9C-884E-4F9F2898B8E2}">
+								<Child Name="simplecontainerSubscreenTcSapmv4" Owner="{BDAAF1EC-82F6-43DB-8D50-75998AFCE379}">
+									<Child Name="tablecontrolSapmv45atctrlUErfAuf" Owner="{D0C0009D-B464-4F10-9307-C6D2B66C7448}">
+										<Child Name="textfieldRv45aMabnr" Owner="{AD7E3F42-B322-4C2C-AC41-CFAD7E270E38}" />
+										<Child Name="textfieldVbapSgtRcat" Owner="{5067FD92-7F3F-4118-9598-697B4C126D84}" />
+										<Child Name="textfieldRv45aKwmeng" Owner="{4FD24F67-BCB7-47F5-B528-3E611126D365}" />
+										<Child Name="textfieldVbapVrkme" Owner="{51471AC3-C8A4-4C0F-BEDE-FDDE434F1E3F}" />
+										<Child Name="textfieldVbapArktx" Owner="{D5BB1961-F54E-445B-B3C9-CFBACB1375CA}" />
+										<Child Name="textfieldVbapKdmat" Owner="{281F5594-A44F-42D2-B366-4017974DB1BA}" />
+									</Child>
+								</Child>
+							</Child>
+						</Child>
+					</Child>
+					<Child Name="tabstripTaxiTabstripItem" Owner="{BC39272A-C8B5-4767-BF25-CD29DF55F078}">
+						<Child Name="tabT07" Owner="{98381985-8F9E-4E90-9B33-4B91DE0C3153}">
+							<Child Name="scrollcontainerSubscreenBodySapm" Owner="{FA4BF150-86BD-48EA-B185-4695E2450FEF}">
+								<Child Name="tablecontrolSapmv45atctrlPein" Owner="{1C8A263C-9F43-4E56-854E-7D4AEFBBA024}">
+									<Child Name="textfieldVbepWmeng" Owner="{0886DF95-D023-400D-B5FA-2624329276DD}" />
+									<Child Name="textfieldRv45aEtdat" Owner="{414B84C5-117A-435A-89C1-AEB423934372}" />
+								</Child>
+							</Child>
+						</Child>
+						<Child Name="tabT03" Owner="{A385AF07-A252-4B61-B98F-76552C3CC778}">
+							<Child Name="scrollcontainerSubscreenBodySapm" Owner="{D13D6C1B-4E71-42AA-8338-A19F43EEEE95}">
+								<Child Name="textfieldRoute" Owner="{66434D3D-B8B3-4824-BA12-4145DA9717B6}" />
+							</Child>
+						</Child>
+						<Child Name="tabT05" Owner="{7A8FABD3-B499-4B72-BC59-CF966A11416D}">
+							<Child Name="scrollcontainerSubscreenBodySapl" Owner="{CBF05D17-9046-4193-BE71-8DE9F87C7F9C}">
+								<Child Name="tablecontrolSaplv69atctrlKonditi" Owner="{11A44E24-9872-41F4-94C6-1C3BCF5F2BA9}">
+									<Child Name="textfieldKomvKschl" Owner="{8055688B-EB3F-40C7-A527-48E8883CC31B}" />
+									<Child Name="textfieldKomvKbetr" Owner="{8F692919-C095-4A0C-9C22-AE1738432EAE}" />
+									<Child Name="textfieldRv61aKoein" Owner="{2FDD36FD-72FD-4766-B6FF-D11485D02BFE}" />
+									<Child Name="textfieldKomvKpein" Owner="{BB5F2CB0-C2BA-47C3-922C-90E3C9AE2B5B}" />
+									<Child Name="textfieldKomvKschl2" Owner="{99C8AD2A-1601-44E0-9CB2-5046F03C6491}" />
+									<Child Name="textfieldKomvKbetr2" Owner="{69791F61-1256-407D-966E-DB5B1CC831B5}" />
+									<Child Name="textfieldRv61aKoein2" Owner="{75739D83-2E1C-4C55-95CA-8DC9A44D4DFD}" />
+									<Child Name="textfieldKomvKpein2" Owner="{1B46F17D-916B-4EDC-A7B0-2514763FBBF1}" />
+									<Child Name="textfieldKomvKschl3" Owner="{DC309E36-8C5C-444B-AB36-AFA9BFA389FF}" />
+									<Child Name="textfieldKomvKbetr3" Owner="{81532409-B1E1-4015-BA3B-4B2360D03F3A}" />
+									<Child Name="textfieldKomvKpein3" Owner="{065B5D55-0A0A-460D-8C2F-CA90C7BEFD29}" />
+								</Child>
+							</Child>
+						</Child>
+						<Child Name="tabT12" Owner="{49A05F9F-82BA-40A5-BE25-355C1A98AA0D}" />
+						<Child Name="tabT13" Owner="{D296B666-9323-4F47-B478-2CE4C43A3CEE}" />
+						<Child Name="tabT14" Owner="{71AF8394-D87C-4438-AE26-B8ED59E4A57A}" />
+						<Child Name="tabT15" Owner="{BF850D48-2BD2-4D66-A596-38F75B2D8A5E}">
+							<Child Name="scrollcontainerSubscreenBodySapm" Owner="{14B1FF66-1DE1-43B9-8140-3BE51B9259CE}">
+								<Child Name="simplecontainerCustomerScreenSap" Owner="{A71AB2FB-8519-446B-9E04-5E62E8CD7F1C}">
+									<Child Name="comboboxCarlineDrXlmaier" Owner="{AD1555BF-08BD-4CF2-837B-35D3E7148626}" />
+									<Child Name="comboboxProductType" Owner="{74F26563-DA32-45A2-9B2A-C3C88846450D}" />
+									<Child Name="labelCarlineModel" Owner="{C707C2AC-68E9-4ED3-8385-8E31A20F5E76}" />
+								</Child>
+							</Child>
+						</Child>
+					</Child>
+					<Child Name="customcontrolImageContainer" Owner="{CFF499B9-AF66-429A-A04B-1D44B30D7F08}">
+						<Child Name="containershellShellcont" Owner="{ED30F4C2-B763-428A-A726-D032076FC27F}">
+							<Child Name="splittershellShell" Owner="{474D4687-EA4C-47E8-B7FA-34ECF06454B3}">
+								<Child Name="containershellShellcont0" Owner="{1329D85D-674D-400D-B368-F512E935385F}">
+									<Child Name="shelltreeShell" Owner="{4E0110B6-C601-4F2C-9DAF-1B1BE5F4BB62}" />
+								</Child>
+							</Child>
+						</Child>
+					</Child>
+					<Child Name="textfieldCalcruledefltdlvcrdt" Owner="{C9C105ED-1FC2-4946-B9BD-F0A93CD26C7C}" />
+					<Child Name="checkbox" Owner="{2BFE556C-F541-429B-9477-6086EAB83966}" />
+				</Child>
+				<Child Name="toolbarTbar0" Owner="{2BA9A600-81C8-4351-82B8-9AAAA65C8BA5}">
+					<Child Name="okcodefieldOkcd" Owner="{472C348B-F8AA-4A1B-96A5-477B9BFCDF2F}" />
+					<Child Name="buttonBtn0" Owner="{88626B4B-C5A0-4701-918B-5978492A4A7A}" />
+					<Child Name="buttonBtn11" Owner="{AB7AD7D4-A24F-4A5C-9F13-5D7BF1439A3D}" />
+					<Child Name="buttonBtn3" Owner="{A4D79589-998C-4C50-A570-F5F5D1ED517D}" />
+				</Child>
+				<Child Name="titlebarSapEasyAccessUserMenuFor" Owner="{BF2CE1E3-7DBA-4BFD-B197-CBBA2EA80514}" />
+				<Child Name="toolbarTbar1" Owner="{F099C048-661F-47DB-9CC4-F13B34851DA0}">
+					<Child Name="buttonBackground" Owner="{B04C7201-7DD4-4CA6-88B8-35963753D3E9}" />
+					<Child Name="buttonBtn20" Owner="{B12247A6-507D-477F-ACBC-55FA4267F4F9}" />
+				</Child>
+				<Child Name="Afx" Owner="{3E48218B-D23A-4EEC-87C5-C3ACDE071CF4}" />
+			</Child>
+			<Child Name="modalwindowSalesDocumentType143E" Owner="{472C3DA0-FAFC-433C-99DD-1D81BCE5ED15}">
+				<Child Name="userareaUsr" Owner="{60BB0112-7FCA-4DC6-BE39-FA0EE5C112B8}">
+					<Child Name="labelEd" Owner="{6BD437EB-2DAC-45F6-87CC-A61F11F4026D}" />
+					<Child Name="labelCreditMemoRequest" Owner="{EE0374F9-78A0-4DC8-832A-F17B9C5A66AB}" />
+					<Child Name="labelToolManufExt" Owner="{CC7CAFDC-C033-42BD-BE2D-9E3F87127DA5}" />
+					<Child Name="tabstripGSelonetabstrip" Owner="{D15C74B3-7332-4F15-8E8D-D66CD045B138}">
+						<Child Name="tabTab001" Owner="{A63BCBC3-9543-4D0D-AEAE-27DC0CE69764}">
+							<Child Name="scrollcontainerSubscrPreselSapls" Owner="{52824665-708C-47ED-8CF4-5786B1145DAD}">
+								<Child Name="simplecontainerSaplsdh40220" Owner="{AB2802C4-8946-4BE2-B674-800E71A512D9}">
+									<Child Name="textfieldDescription" Owner="{2B98C90B-B943-4E28-83A9-B3BB17386ED2}" />
+									<Child Name="textfieldSalesOffice" Owner="{9BB718BB-65BA-4AD6-8B9F-DE964B0A81EF}" />
+									<Child Name="textfieldSalesGroup" Owner="{D6F5A80E-C681-48DE-BF16-4F52F1E3F8EE}" />
+									<Child Name="textfieldHideInInputHelp" Owner="{9FAEEE28-CD65-4327-B54A-17C5AA47E941}" />
+									<Child Name="buttonSalesGroup" Owner="{9B2C8958-C2CA-4C7F-BB73-BABE843D866C}" />
+								</Child>
+							</Child>
+						</Child>
+					</Child>
+					<Child Name="customcontrolContainer" Owner="{9BAC6920-AC0E-40F9-AC9C-52F4E9DD8315}">
+						<Child Name="containershellShellcont" Owner="{2088A612-E5E0-4BB0-B240-647048E1A6BA}">
+							<Child Name="shellcalendarShell" Owner="{79ACDBFE-2E62-48B2-A7FA-C6AD18D73B51}" />
+						</Child>
+					</Child>
+					<Child Name="buttonNo" Owner="{D6980F25-D2A2-415C-A216-312B95468CFD}" />
+					<Child Name="buttonYes" Owner="{033AE1F3-61EA-47EF-9562-EE3B70203C6A}" />
+				</Child>
+				<Child Name="Afx" Owner="{F8F5063D-B18C-4006-89B5-6D6EC4E355A6}" />
+				<Child Name="toolbarTbar0" Owner="{4BABF73A-F3B2-4C3A-B084-A929DF48EFE4}">
+					<Child Name="buttonBtn0" Owner="{0B87E952-33BD-4C8D-B6AB-F68B45ADB633}" />
+					<Child Name="buttonBtn12" Owner="{EEB6D6AD-89A1-4DF8-9C89-9F4404423CB6}" />
+				</Child>
+			</Child>
+			<Child Name="Afx" Owner="{C80AE788-7B34-40C7-BFB3-BC60CEFDF023}">
+				<Child Name="ListBox" Owner="{F119CC83-657B-40DF-93DD-0851ADC0DC76}" />
+			</Child>
+			<Child Name="modalwindowMultipleSelectForSale" Owner="{8AE7032A-FCE7-4F8A-8424-A4FCE49C49B2}">
+				<Child Name="toolbarTbar0" Owner="{7EE784CE-D177-4735-BE7D-605C1D6629AA}">
+					<Child Name="buttonBtn12" Owner="{2F64E845-0CEB-495E-B0E5-A9E81C3CDEE1}" />
+				</Child>
+			</Child>
+			<Child Name="dlgSAPGUIForWindows760" Owner="{D2C54510-5113-4BB5-8BB0-7D6C4436C6C0}">
+				<Child Name="btnYes" Owner="{0FF29C05-62C3-4706-ACBF-C7E7C038D7C9}" />
+			</Child>
+			<Child Name="wndDialogBoxContainerClass" Owner="{7EA2D8C7-81E6-4B16-8424-76CCC8DE8203}">
+				<Child Name="ShellWindowClass" Owner="{BA31FDB9-4232-4C6E-B6FE-19857A1884E7}">
+					<Child Name="AfxOleControl140" Owner="{5D211008-75C5-475F-B797-85DD08766F20}">
+						<Child Name="AfxMDIFrame140" Owner="{F5C6385E-2DFD-4D63-8D9C-BC59850B1ABC}">
+							<Child Name="AfxFrameOrView140" Owner="{0393A66B-F46A-48FF-BB1C-0E615868BCE9}">
+								<Child Name="CustomContainerClass" Owner="{A63D4530-B66C-476F-ADC0-F429BC938FDF}">
+									<Child Name="ShellWindowClass" Owner="{1770164E-B82F-4FD4-83EA-CB6B8974414F}">
+										<Child Name="Item" Owner="{9FC7131A-781C-40DB-9AF9-03D5E8571355}">
+											<Child Name="ShellEmbedding" Owner="{641A1DAA-FE7F-455E-9421-859A7C5673B2}">
+												<Child Name="ShellDocObjectView" Owner="{6A43D732-BE65-49BF-8D65-B599F18E2A81}">
+													<Child Name="browser" Owner="{DF0C4569-7A79-4426-8D51-9794F8DAEDB3}">
+														<Child Name="pageConversionOfSapscriptTextHel" Owner="{586294D3-9FD2-46BC-A836-554231F09A8D}">
+															<Child Name="textnode" Owner="{439554D5-652E-4A9A-ACA0-E25DE67F195F}" />
+														</Child>
+													</Child>
+												</Child>
+											</Child>
+										</Child>
+										<Child Name="E0C8088" Owner="{1DCCB042-8DEE-4192-9569-3A22D4D7847C}">
+											<Child Name="ShellEmbedding" Owner="{12689BBF-9C94-4BDE-8657-2D68A78AD188}">
+												<Child Name="ShellDocObjectView" Owner="{A28B0FC6-FC93-4323-B60A-E1E663256943}">
+													<Child Name="browser" Owner="{F007E468-1A79-45F8-A8AF-30C54577BB24}">
+														<Child Name="pageConversionOfSapscriptTextHel" Owner="{59257ED2-0BAE-4D6E-A85A-CD97A7140881}">
+															<Child Name="textnode" Owner="{EFD9EC23-5E99-416D-AB7F-0F736F504D59}" />
+														</Child>
+													</Child>
+												</Child>
+											</Child>
+										</Child>
+										<Child Name="E8C8088" Owner="{A950D1E2-FA6D-46C1-BC0B-8CDB6DAED089}">
+											<Child Name="ShellEmbedding" Owner="{2B0767DD-3D78-45A3-AA43-658D33D039BD}">
+												<Child Name="ShellDocObjectView" Owner="{FB1E11F0-0CB9-4FA2-A6CC-CE3D7455ACEF}">
+													<Child Name="browser" Owner="{5B1E6F67-C190-4CB1-98D5-591AFA1FD5DD}">
+														<Child Name="pageConversionOfSapscriptTextHel" Owner="{DBD55F66-D63E-4A72-B2D7-54C562E14E3F}">
+															<Child Name="textnode" Owner="{AEDE685F-AB52-4BD2-AB9F-7E2D45D53F8A}" />
+														</Child>
+													</Child>
+												</Child>
+											</Child>
+										</Child>
+									</Child>
+								</Child>
+							</Child>
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="wndSAP" Owner="{8ED034D8-3171-4E32-9B89-B97A29FB502F}">
+				<Child Name="Afx" Owner="{836FF3CB-47AC-4924-9972-38E8866915A4}" />
+			</Child>
+			<Child Name="dlgSAPLogon770" Owner="{E1C901A5-BA87-4E60-AF02-9BA136C15AE2}">
+				<Child Name="AfxOleControl140" Owner="{32ACFEF3-5008-41EE-B879-0B3D29D4C0A0}">
+					<Child Name="AfxMDIFrame140" Owner="{379FE4FF-7438-4B8D-91B1-8C83B057B805}">
+						<Child Name="AfxFrameOrView140" Owner="{A9627CF4-D363-4C3F-89A8-6B6E02A57A1C}">
+							<Child Name="myContainer" Owner="{29B08F39-C668-46C3-9282-C0E60DD24120}">
+								<Child Name="ListView" Owner="{8655273B-E402-4062-A857-D3472DABDEEB}" />
+							</Child>
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>

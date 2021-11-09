@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{30501691-969F-4007-923F-BA4459E51E6A}" version="15.0">
+	<children>
+		<child name="saplogon" key="{CE465562-1160-4D60-834D-5832CA610620}">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="15.0" caption="saplogon" ID="{CE465562-1160-4D60-834D-5832CA610620}" FileName="Objects\saplogon.tcObject" Update="False" />
+		</child>
+		<child name="dlgSAPLogon770" key="{A8B7ECC6-51EC-4E69-98DA-B4F9F205DC51}">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="15.0" caption="dlgSAPLogon770" ID="{A8B7ECC6-51EC-4E69-98DA-B4F9F205DC51}" FileName="Objects\dlgSAPLogon770.tcObject" Update="False" />
+		</child>
+	</children>
+</Root>

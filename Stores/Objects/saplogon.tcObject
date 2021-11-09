@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root identifier="Stores.Objects" version="2" mode="6" name="" className="" groupName="" objectType="0" selected="True">
+	<properties />
+	<children>
+		<child name="Process(&quot;saplogon&quot;)" className="saplogon" groupName="" objectType="0" selected="True">
+			<properties />
+			<children>
+				<child name="Window(&quot;SAP GUI Tooltip&quot;, &quot;&quot;, 1)" className="SAP GUI Tooltip" groupName="" objectType="1" selected="True">
+					<properties>
+						<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+						<property name="Visible" type="3" kind="0" selected="True" basic="True" value="False" />
+						<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="" />
+					</properties>
+					<children />
+				</child>
+				<child name="Window(&quot;tooltips_class32&quot;, &quot;&quot;, 1)" className="tooltips_class32" groupName="" objectType="1" selected="True">
+					<properties>
+						<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+						<property name="Visible" type="3" kind="0" selected="True" basic="True" value="False" />
+						<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="" />
+						<property name="wText" category="Extended" type="2" kind="0" selected="True" basic="True" value="" />
+					</properties>
+					<children />
+				</child>
+				<child name="Window(&quot;Afx:0D680000:808&quot;, &quot;This is a DataTip :)&quot;, 1)" className="Afx:0D680000:808" groupName="" objectType="1" selected="True">
+					<properties>
+						<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="False" />
+						<property name="Visible" type="3" kind="0" selected="True" basic="True" value="False" />
+						<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="This is a DataTip :)" />
+					</properties>
+					<children />
+				</child>
+				<child name="Window(&quot;tooltips_class32&quot;, &quot;&quot;, 2)" className="tooltips_class32" groupName="" objectType="1" selected="True">
+					<properties>
+						<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+						<property name="Visible" type="3" kind="0" selected="True" basic="True" value="False" />
+						<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="" />
+						<property name="wText" category="Extended" type="2" kind="0" selected="True" basic="True" value="" />
+					</properties>
+					<children />
+				</child>
+				<child name="Window(&quot;Afx:0D680000:808&quot;, &quot;This is a DataTip :)&quot;, 2)" className="Afx:0D680000:808" groupName="" objectType="1" selected="True">
+					<properties>
+						<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="False" />
+						<property name="Visible" type="3" kind="0" selected="True" basic="True" value="False" />
+						<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="This is a DataTip :)" />
+					</properties>
+					<children />
+				</child>
+				<child name="Window(&quot;tooltips_class32&quot;, &quot;&quot;, 3)" className="tooltips_class32" groupName="" objectType="1" selected="True">
+					<properties>
+						<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+						<property name="Visible" type="3" kind="0" selected="True" basic="True" value="False" />
+						<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="" />
+						<property name="wText" category="Extended" type="2" kind="0" selected="True" basic="True" value="" />
+					</properties>
+					<children />
+				</child>
+				<child name="Window(&quot;WindowsFormsSapFocus&quot;, &quot;&quot;, 1)" className="WindowsFormsSapFocus" groupName="" objectType="1" selected="True">
+					<properties>
+						<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+						<property name="Visible" type="3" kind="0" selected="True" basic="True" value="True" />
+						<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="" />
+					</properties>
+					<children />
+				</child>
+				<child name="Window(&quot;WindowsFormsSapFocus&quot;, &quot;&quot;, 2)" className="WindowsFormsSapFocus" groupName="" objectType="1" selected="True">
+					<properties>
+						<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+						<property name="Visible" type="3" kind="0" selected="True" basic="True" value="True" />
+						<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="" />
+					</properties>
+					<children />
+				</child>
+				<child name="Window(&quot;WindowsFormsSapFocus&quot;, &quot;&quot;, 3)" className="WindowsFormsSapFocus" groupName="" objectType="1" selected="True">
+					<properties>
+						<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+						<property name="Visible" type="3" kind="0" selected="True" basic="True" value="True" />
+						<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="" />
+					</properties>
+					<children />
+				</child>
+				<child name="Window(&quot;WindowsFormsSapFocus&quot;, &quot;&quot;, 4)" className="WindowsFormsSapFocus" groupName="" objectType="1" selected="True">
+					<properties>
+						<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+						<property name="Visible" type="3" kind="0" selected="True" basic="True" value="True" />
+						<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="" />
+					</properties>
+					<children />
+				</child>
+				<child name="Window(&quot;#32770&quot;, &quot;SAP Logon 770&quot;, 1)" className="#32770" groupName="" objectType="1" selected="True">
+					<properties>
+						<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+						<property name="Visible" type="3" kind="0" selected="True" basic="True" value="True" />
+						<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="SAP Logon 770" />
+					</properties>
+					<children>
+						<child name="Window(&quot;Button&quot;, &quot;&amp;Log On&quot;, 1)" className="Button" groupName="" objectType="2" selected="True">
+							<properties>
+								<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+								<property name="Visible" type="3" kind="0" selected="True" basic="True" value="True" />
+								<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="&amp;Log On" />
+							</properties>
+							<children />
+						</child>
+						<child name="Window(&quot;Button&quot;, &quot;&amp;Variable Logon&quot;, 2)" className="Button" groupName="" objectType="2" selected="True">
+							<properties>
+								<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+								<property name="Visible" type="3" kind="0" selected="True" basic="True" value="True" />
+								<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="&amp;Variable Logon" />
+							</properties>
+							<children />
+						</child>
+						<child name="Window(&quot;Button&quot;, &quot;&quot;, 3)" className="Button" groupName="" objectType="2" selected="True">
+							<properties>
+								<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+								<property name="Visible" type="3" kind="0" selected="True" basic="True" value="True" />
+								<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="" />
+							</properties>
+							<children />
+						</child>
+						<child name="Window(&quot;Button&quot;, &quot;&quot;, 4)" className="Button" groupName="" objectType="2" selected="True">
+							<properties>
+								<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+								<property name="Visible" type="3" kind="0" selected="True" basic="True" value="True" />
+								<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="" />
+							</properties>
+							<children />
+						</child>
+						<child name="Window(&quot;Button&quot;, &quot;&quot;, 5)" className="Button" groupName="" objectType="2" selected="True">
+							<properties>
+								<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+								<property name="Visible" type="3" kind="0" selected="True" basic="True" value="True" />
+								<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="" />
+							</properties>
+							<children />
+						</child>
+						<child name="Window(&quot;Button&quot;, &quot;&quot;, 6)" className="Button" groupName="" objectType="1" selected="True">
+							<properties>
+								<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+								<property name="Visible" type="3" kind="0" selected="True" basic="True" value="True" />
+								<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="" />
+								<property name="wState" category="Extended" type="1" kind="3" selected="True" basic="True" value="0" />
+							</properties>
+							<children />
+						</child>
+						<child name="Window(&quot;Button&quot;, &quot;&quot;, 7)" className="Button" groupName="" objectType="1" selected="True">
+							<properties>
+								<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+								<property name="Visible" type="3" kind="0" selected="True" basic="True" value="True" />
+								<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="" />
+								<property name="wState" category="Extended" type="1" kind="3" selected="True" basic="True" value="1" />
+							</properties>
+							<children />
+						</child>
+						<child name="Window(&quot;Button&quot;, &quot;&quot;, 8)" className="Button" groupName="" objectType="1" selected="True">
+							<properties>
+								<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+								<property name="Visible" type="3" kind="0" selected="True" basic="True" value="True" />
+								<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="" />
+								<property name="wState" category="Extended" type="1" kind="3" selected="True" basic="True" value="0" />
+							</properties>
+							<children />
+						</child>
+						<child name="Window(&quot;Button&quot;, &quot;&quot;, 9)" className="Button" groupName="" objectType="1" selected="True">
+							<properties>
+								<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+								<property name="Visible" type="3" kind="0" selected="True" basic="True" value="True" />
+								<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="" />
+								<property name="wState" category="Extended" type="1" kind="3" selected="True" basic="True" value="0" />
+							</properties>
+							<children />
+						</child>
+						<child name="Window(&quot;Button&quot;, &quot;&quot;, 10)" className="Button" groupName="" objectType="1" selected="True">
+							<properties>
+								<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+								<property name="Visible" type="3" kind="0" selected="True" basic="True" value="True" />
+								<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="" />
+								<property name="wState" category="Extended" type="1" kind="3" selected="True" basic="True" value="0" />
+							</properties>
+							<children />
+						</child>
+						<child name="Window(&quot;Button&quot;, &quot;Status&quot;, 11)" className="Button" groupName="" objectType="2" selected="True">
+							<properties>
+								<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+								<property name="Visible" type="3" kind="0" selected="True" basic="True" value="False" />
+								<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="Status" />
+							</properties>
+							<children />
+						</child>
+						<child name="Window(&quot;Button&quot;, &quot;&quot;, 12)" className="Button" groupName="" objectType="2" selected="True">
+							<properties>
+								<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+								<property name="Visible" type="3" kind="0" selected="True" basic="True" value="False" />
+								<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="" />
+							</properties>
+							<children />
+						</child>
+						<child name="Window(&quot;Button&quot;, &quot;&quot;, 13)" className="Button" groupName="" objectType="2" selected="True">
+							<properties>
+								<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="False" />
+								<property name="Visible" type="3" kind="0" selected="True" basic="True" value="True" />
+								<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="" />
+							</properties>
+							<children />
+						</child>
+						<child name="Window(&quot;Edit&quot;, &quot;&quot;, 1)" className="Edit" groupName="" objectType="3" selected="True">
+							<properties>
+								<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+								<property name="Visible" type="3" kind="0" selected="True" basic="True" value="True" />
+								<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="" />
+								<property name="wSelection" category="Extended" type="2" kind="0" selected="True" basic="True" value="" />
+								<property name="wText" category="Extended" type="2" kind="3" selected="True" basic="True" value="" />
+							</properties>
+							<children />
+						</child>
+						<child name="Window(&quot;Static&quot;, &quot;&quot;, 1)" className="Static" groupName="" objectType="1" selected="True">
+							<properties>
+								<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+								<property name="Visible" type="3" kind="0" selected="True" basic="True" value="False" />
+								<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="" />
+							</properties>
+							<children />
+						</child>
+						<child name="Window(&quot;Button&quot;, &quot;Button1&quot;, 14)" className="Button" groupName="" objectType="2" selected="True">
+							<properties>
+								<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+								<property name="Visible" type="3" kind="0" selected="True" basic="True" value="True" />
+								<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="Button1" />
+							</properties>
+							<children />
+						</child>
+						<child name="Window(&quot;Button&quot;, &quot;Button1&quot;, 15)" className="Button" groupName="" objectType="2" selected="True">
+							<properties>
+								<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+								<property name="Visible" type="3" kind="0" selected="True" basic="True" value="True" />
+								<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="Button1" />
+							</properties>
+							<children />
+						</child>
+						<child name="Window(&quot;Button&quot;, &quot;Button1&quot;, 16)" className="Button" groupName="" objectType="2" selected="True">
+							<properties>
+								<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+								<property name="Visible" type="3" kind="0" selected="True" basic="True" value="False" />
+								<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="Button1" />
+							</properties>
+							<children />
+						</child>
+						<child name="Window(&quot;Button&quot;, &quot;&quot;, 17)" className="Button" groupName="" objectType="2" selected="True">
+							<properties>
+								<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+								<property name="Visible" type="3" kind="0" selected="True" basic="True" value="False" />
+								<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="" />
+							</properties>
+							<children />
+						</child>
+						<child name="Window(&quot;Button&quot;, &quot;Button1&quot;, 18)" className="Button" groupName="" objectType="2" selected="True">
+							<properties>
+								<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+								<property name="Visible" type="3" kind="0" selected="True" basic="True" value="False" />
+								<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="Button1" />
+							</properties>
+							<children />
+						</child>
+						<child name="Window(&quot;Edit&quot;, &quot;&quot;, 2)" className="Edit" groupName="" objectType="3" selected="True">
+							<properties>
+								<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+								<property name="Visible" type="3" kind="0" selected="True" basic="True" value="False" />
+								<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="" />
+								<property name="wSelection" category="Extended" type="2" kind="0" selected="True" basic="True" value="" />
+								<property name="wText" category="Extended" type="2" kind="3" selected="True" basic="True" value="" />
+							</properties>
+							<children />
+						</child>
+						<child name="Window(&quot;ComboBox&quot;, &quot;&quot;, 1)" className="ComboBox" groupName="" objectType="1" selected="True">
+							<properties>
+								<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+								<property name="Visible" type="3" kind="0" selected="True" basic="True" value="False" />
+								<property name="wItemList" category="Extended" type="2" kind="0" selected="True" basic="True" value="" />
+								<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="" />
+								<property name="wText" category="Extended" type="2" kind="3" selected="True" basic="True" value="" />
+							</properties>
+							<children />
+						</child>
+						<child name="Window(&quot;Static&quot;, &quot;Connections&quot;, 2)" className="Static" groupName="" objectType="1" selected="True">
+							<properties>
+								<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+								<property name="Visible" type="3" kind="0" selected="True" basic="True" value="False" />
+								<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="Connections" />
+							</properties>
+							<children />
+						</child>
+						<child name="Window(&quot;Static&quot;, &quot;Footer&quot;, 3)" className="Static" groupName="" objectType="1" selected="True">
+							<properties>
+								<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+								<property name="Visible" type="3" kind="0" selected="True" basic="True" value="False" />
+								<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="Footer" />
+							</properties>
+							<children />
+						</child>
+						<child name="Window(&quot;AfxOleControl140&quot;, &quot;&quot;, 1)" className="AfxOleControl140" groupName="" objectType="1" selected="True">
+							<properties>
+								<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+								<property name="Visible" type="3" kind="0" selected="True" basic="True" value="True" />
+								<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="" />
+							</properties>
+							<children>
+								<child name="Window(&quot;AfxMDIFrame140&quot;, &quot;&quot;, 1)" className="AfxMDIFrame140" groupName="" objectType="1" selected="True">
+									<properties>
+										<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+										<property name="Visible" type="3" kind="0" selected="True" basic="True" value="True" />
+										<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="" />
+									</properties>
+									<children>
+										<child name="Window(&quot;AfxFrameOrView140&quot;, &quot;&quot;, 1)" className="AfxFrameOrView140" groupName="" objectType="1" selected="True">
+											<properties>
+												<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+												<property name="Visible" type="3" kind="0" selected="True" basic="True" value="True" />
+												<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="" />
+											</properties>
+											<children>
+												<child name="Window(&quot;AfxOleControl140&quot;, &quot;&quot;, 1)" className="AfxOleControl140" groupName="" objectType="1" selected="True">
+													<properties>
+														<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+														<property name="Visible" type="3" kind="0" selected="True" basic="True" value="True" />
+														<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="" />
+													</properties>
+													<children>
+														<child name="Window(&quot;SAPTreeList&quot;, &quot;SAP&apos;s Advanced Treelist&quot;, 1)" className="SAPTreeList" groupName="" objectType="1" selected="True">
+															<properties>
+																<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+																<property name="Visible" type="3" kind="0" selected="True" basic="True" value="True" />
+																<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="SAP&apos;s Advanced Treelist" />
+															</properties>
+															<children />
+														</child>
+													</children>
+												</child>
+											</children>
+										</child>
+										<child name="Window(&quot;AfxFrameOrView140&quot;, &quot;&quot;, 2)" className="AfxFrameOrView140" groupName="" objectType="1" selected="True">
+											<properties>
+												<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+												<property name="Visible" type="3" kind="0" selected="True" basic="True" value="True" />
+												<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="" />
+											</properties>
+											<children>
+												<child name="Window(&quot;Afx:00340000:0&quot;, &quot;myContainer&quot;, 1)" className="Afx:00340000:0" groupName="" objectType="1" selected="True">
+													<properties>
+														<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+														<property name="Visible" type="3" kind="0" selected="True" basic="True" value="True" />
+														<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="myContainer" />
+													</properties>
+													<children>
+														<child name="Window(&quot;Edit&quot;, &quot;&quot;, 1)" className="Edit" groupName="" objectType="3" selected="True">
+															<properties>
+																<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+																<property name="Visible" type="3" kind="0" selected="True" basic="True" value="False" />
+																<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="" />
+																<property name="wSelection" category="Extended" type="2" kind="0" selected="True" basic="True" value="" />
+																<property name="wText" category="Extended" type="2" kind="3" selected="True" basic="True" value="" />
+															</properties>
+															<children />
+														</child>
+														<child name="Window(&quot;SysListView32&quot;, &quot;&quot;, 1)" className="SysListView32" groupName="" objectType="1" selected="True">
+															<properties>
+																<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+																<property name="Visible" type="3" kind="0" selected="True" basic="True" value="True" />
+																<property name="wColumnCount" category="Extended" type="1" kind="0" selected="True" basic="True" value="7" />
+																<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="" />
+																<property name="wSelectedItems" category="Extended" type="2" kind="0" selected="True" basic="True" isBinary="True" value="30003000300020002D0020002D002D002D002D002D002D0020002000200050002000720020006F00200064002000750020006300200074002000690020007600200065002000200020002D002D002D002D002D002D002D002D002D002D002D002D002D002D002D002D002D002D002D002D002D002D002D002D002D002D002D002D002D00" />
+															</properties>
+															<children>
+																<child name="Window(&quot;SysHeader32&quot;, &quot;&quot;, 1)" className="SysHeader32" groupName="" objectType="1" selected="True">
+																	<properties>
+																		<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+																		<property name="Visible" type="3" kind="0" selected="True" basic="True" value="True" />
+																		<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="" />
+																	</properties>
+																	<children />
+																</child>
+															</children>
+														</child>
+													</children>
+												</child>
+											</children>
+										</child>
+									</children>
+								</child>
+							</children>
+						</child>
+						<child name="Window(&quot;AfxOleControl140&quot;, &quot;&quot;, 2)" className="AfxOleControl140" groupName="" objectType="1" selected="True">
+							<properties>
+								<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+								<property name="Visible" type="3" kind="0" selected="True" basic="True" value="False" />
+								<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="" />
+							</properties>
+							<children>
+								<child name="Window(&quot;SAPTreeList&quot;, &quot;SAP&apos;s Advanced Treelist&quot;, 1)" className="SAPTreeList" groupName="" objectType="1" selected="True">
+									<properties>
+										<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+										<property name="Visible" type="3" kind="0" selected="True" basic="True" value="False" />
+										<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="SAP&apos;s Advanced Treelist" />
+									</properties>
+									<children />
+								</child>
+								<child name="Window(&quot;SysHeader32&quot;, &quot;&quot;, 1)" className="SysHeader32" groupName="" objectType="1" selected="True">
+									<properties>
+										<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+										<property name="Visible" type="3" kind="0" selected="True" basic="True" value="False" />
+										<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="" />
+									</properties>
+									<children />
+								</child>
+							</children>
+						</child>
+						<child name="Window(&quot;SysTabControl32&quot;, &quot;&quot;, 1)" className="SysTabControl32" groupName="" objectType="1" selected="True">
+							<properties>
+								<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+								<property name="Visible" type="3" kind="0" selected="True" basic="True" value="False" />
+								<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="" />
+								<property name="wRowCount" category="Extended" type="1" kind="0" selected="True" basic="True" value="1" />
+							</properties>
+							<children />
+						</child>
+					</children>
+				</child>
+				<child name="Window(&quot;tooltips_class32&quot;, &quot;&quot;, 4)" className="tooltips_class32" groupName="" objectType="1" selected="True">
+					<properties>
+						<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+						<property name="Visible" type="3" kind="0" selected="True" basic="True" value="False" />
+						<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="" />
+						<property name="wText" category="Extended" type="2" kind="0" selected="True" basic="True" value="" />
+					</properties>
+					<children />
+				</child>
+				<child name="Window(&quot;ComboLBox&quot;, &quot;&quot;, 1)" className="ComboLBox" groupName="" objectType="1" selected="True">
+					<properties>
+						<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+						<property name="Visible" type="3" kind="0" selected="True" basic="True" value="False" />
+						<property name="wItemList" category="Extended" type="2" kind="0" selected="True" basic="True" value="" />
+						<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="" />
+						<property name="wSelectedItems" category="Extended" type="2" kind="0" selected="True" basic="True" value="" />
+					</properties>
+					<children />
+				</child>
+				<child name="Window(&quot;OleDdeWndClass&quot;, &quot;DDE Server Window&quot;, 1)" className="OleDdeWndClass" groupName="" objectType="1" selected="True">
+					<properties>
+						<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+						<property name="Visible" type="3" kind="0" selected="True" basic="True" value="False" />
+						<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="DDE Server Window" />
+					</properties>
+					<children />
+				</child>
+				<child name="Window(&quot;GDI+ Hook Window Class&quot;, &quot;GDI+ Window (saplogon.exe)&quot;, 1)" className="GDI+ Hook Window Class" groupName="" objectType="1" selected="True">
+					<properties>
+						<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="True" />
+						<property name="Visible" type="3" kind="0" selected="True" basic="True" value="False" />
+						<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="GDI+ Window (saplogon.exe)" />
+					</properties>
+					<children />
+				</child>
+				<child name="Window(&quot;MSCTFIME UI&quot;, &quot;MSCTFIME UI&quot;, 1)" className="MSCTFIME UI" groupName="" objectType="1" selected="True">
+					<properties>
+						<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="False" />
+						<property name="Visible" type="3" kind="0" selected="True" basic="True" value="False" />
+						<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="MSCTFIME UI" />
+					</properties>
+					<children />
+				</child>
+				<child name="Window(&quot;IME&quot;, &quot;Default IME&quot;, 1)" className="IME" groupName="" objectType="1" selected="True">
+					<properties>
+						<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="False" />
+						<property name="Visible" type="3" kind="0" selected="True" basic="True" value="False" />
+						<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="Default IME" />
+					</properties>
+					<children />
+				</child>
+				<child name="Window(&quot;IME&quot;, &quot;Default IME&quot;, 2)" className="IME" groupName="" objectType="1" selected="True">
+					<properties>
+						<property name="Enabled" type="3" kind="0" selected="True" basic="True" value="False" />
+						<property name="Visible" type="3" kind="0" selected="True" basic="True" value="False" />
+						<property name="WndCaption" type="2" kind="3" selected="True" basic="True" value="Default IME" />
+					</properties>
+					<children />
+				</child>
+			</children>
+		</child>
+	</children>
+</Root>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{AD76EDF2-658E-4475-AD1C-5D306A7CD052}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="18" kind="0" dateTime="44344.3319444444" objectName="Aliases.saplogon.dlgSAPLogon760.AfxOleControl140.AfxMDIFrame140.AfxFrameOrView140.myContainer.ListView" objectLeft="312" objectTop="66" objectRight="1058" objectBottom="757" clickPointX="402" clickPointY="524" imageFileName="tcvi1472285421260600.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="19" kind="0" dateTime="44344.3319675926" objectName="Aliases.saplogon.dlgSAPLogon760.AfxOleControl140.AfxMDIFrame140.AfxFrameOrView140.myContainer.ListView" objectLeft="0" objectTop="0" objectRight="1073" objectBottom="773" clickPointX="-53" clickPointY="-70" imageFileName="tcvi1472287484260601.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>
